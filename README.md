@@ -60,8 +60,8 @@ Customer churn significantly impacts business profitability. By modeling custome
 | RF   | 0.809     | 0.50           | 0.58            |
 | LR   | 0.814     | 0.50           | 0.58            |
 
-> Random Forest 模型表现最稳定，AUC≈0.83，可作为最终部署模型。
-> The Random Forest model has the most stable performance with AUC ≈ 0.83 and can be used as the final deployment model.
+Random Forest 模型表现最稳定，AUC≈0.83，可作为最终部署模型。
+The Random Forest model has the most stable performance with AUC ≈ 0.83 and can be used as the final deployment model.
 
 ---
 
