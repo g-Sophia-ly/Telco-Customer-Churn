@@ -60,15 +60,19 @@ Customer churn significantly impacts business profitability. By modeling custome
 | RF   | 0.809     | 0.50           | 0.58            |
 | LR   | 0.814     | 0.50           | 0.58            |
 
-Random Forest 模型表现最稳定，AUC≈0.83，可作为最终部署模型。
-The Random Forest model has the most stable performance with AUC ≈ 0.83 and can be used as the final deployment model.
+> Random Forest 模型表现最稳定，AUC≈0.83，可作为最终部署模型。
+
+> The Random Forest model has the most stable performance with AUC ≈ 0.83 and can be used as the final deployment model.
 
 ---
 
 ## 💡 业务建议 | Business Recommendations
 
 - 合同类型是流失最强预测因子 → 鼓励用户签订长期合同
+- Contract type is the strongest predictor of churn → Encourage users to sign long-term contracts
 - 电子账单用户更易流失 → 可通过纸质账单或个性化通知干预
+- Electronic billing users are more likely to churn → can intervene with paper bills or personalized notifications
 - 高月费客户流失率较高 → 可考虑提供会员奖励或定制优惠
+- Higher churn rates for customers with high monthly fees → Consider offering membership rewards or customized offers
 
 
