@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction/ 客户流失预测分析
+# 客户流失预测分析 ｜ Telco Customer Churn Prediction
 
 本项目旨在通过机器学习模型预测电信行业客户流失行为，并提供可操作的商业策略建议，以帮助企业提升客户留存率。
 
@@ -53,7 +53,7 @@ Customer churn significantly impacts business profitability. By modeling custome
 
 ## 结果与分析 | Results & Insights
 
-| 模型 | Accuracy | Recall (流失) | F1-Score (流失) |
+| Model | Accuracy | Recall (流失) | F1-Score (流失) |
 |------|----------|----------------|-----------------|
 | KNN  | 0.776     | 0.52           | 0.55            |
 | SVM  | 0.808     | 0.50           | 0.58            |
@@ -61,6 +61,7 @@ Customer churn significantly impacts business profitability. By modeling custome
 | LR   | 0.814     | 0.50           | 0.58            |
 
 > Random Forest 模型表现最稳定，AUC≈0.83，可作为最终部署模型。
+> The Random Forest model has the most stable performance with AUC ≈ 0.83 and can be used as the final deployment model.
 
 ---
 
