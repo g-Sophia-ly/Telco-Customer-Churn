@@ -69,10 +69,10 @@ Customer churn significantly impacts business profitability. By modeling custome
 ## 💡 业务建议 | Business Recommendations
 
 - 合同类型是流失最强预测因子 → 鼓励用户签订长期合同
-- Contract type is the strongest predictor of churn → Encourage users to sign long-term contracts
+  Contract type is the strongest predictor of churn → Encourage users to sign long-term contracts
 - 电子账单用户更易流失 → 可通过纸质账单或个性化通知干预
-- Electronic billing users are more likely to churn → can intervene with paper bills or personalized notifications
+  Electronic billing users are more likely to churn → can intervene with paper bills or personalized notifications
 - 高月费客户流失率较高 → 可考虑提供会员奖励或定制优惠
-- Higher churn rates for customers with high monthly fees → Consider offering membership rewards or customized offers
+  Higher churn rates for customers with high monthly fees → Consider offering membership rewards or customized offers
 
 
